@@ -1,4 +1,4 @@
-# faye-server
+# faye
 
 The canonical Faye server
 
